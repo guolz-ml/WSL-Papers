@@ -1,2 +1,3 @@
-# WSL-Papers
-Weakly Supervised Learning Related Papers
+# Awesome Weakly Supervised Learning papers
+
+## Papers
